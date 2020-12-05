@@ -1,5 +1,8 @@
 # Angular 10 CRUD with Spring Boot REST API
 
+<a href="https://javatodev.com/angular-10-crud-with-spring-boot-rest-api/" target="blank">
+    <img align="center" src="https://javatodev.com/wp-content/uploads/2020/11/Angular-10-CRUD-with-Spring-Boot-REST-API-800x450.png" alt="Angular 10 CRUD with Spring Boot REST API"/></a>
+
 <p align="left">
 In this article, I’m going to explain how we can integrate both Angular frontend with REST API developed using Spring Boot. Additionally, I’m covering full CRUD with angular 10.
 
@@ -71,8 +74,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-<h1 align="center">Hi 👋, I'm Chinthaka Dinadasa</h1>
-<h3 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h3>
+<h2>Author Profile</h2>
+
+<h3 align="center">Hi 👋, I'm Chinthaka Dinadasa</h3>
+<h5 align="center">A Passionate Java Fullstack Developer from Sri Lanka and Author of JavatoDev.com</h5>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javatodev" alt="javatodev" /></a> </p> -->
 
